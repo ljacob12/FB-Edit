@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Everyday with Isa</title>
+    
     <body>
      <a href="#contact" > <img src=https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg > </a>
       <h1>An Insider's Guide to NYFW</h1>
